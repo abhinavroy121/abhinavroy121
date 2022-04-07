@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Abhinav Roy👋
 
 <!--
 **abhinavroy121/abhinavroy121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhinav-roy-35154120a/)
+
