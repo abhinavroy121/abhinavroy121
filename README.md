@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavroy121&show_icons=true&theme=radical)](https://github.com/abhinavroy121)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavroy121&layout=compact)](https://github.com/abhinavroy121/github-readme-stats)
