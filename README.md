@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavroy121)](https://github.com/abhinavroy121)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavroy121&hide=contribs,prs)
