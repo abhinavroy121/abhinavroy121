@@ -21,11 +21,11 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://www.instagram.com/_abhinav_roy_/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 <br/>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhinav-roy-35154120a/)
+
 
 ![](https://komarev.com/ghpvc/?username=abhinavroy121&color=green)
  
