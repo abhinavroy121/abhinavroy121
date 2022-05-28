@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Connect with me: </h2>
-<br/>
 
-abhinavroy121.ar@gmail.com
-<h2> About me:  </h2>
+<h2>😄 About me:  </h2>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -28,6 +25,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br/>
 
 <br/>
+<h2>📫 Connect with me: </h2>
+<br/>
+
+abhinavroy121.ar@gmail.com
 <div id="badges">
   
   <a href="https://www.linkedin.com/in/abhinav-roy-35154120a/">
