@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 <br/>
 
 abhinavroy121.ar@gmail.com
+<h2> About me:  </h2>
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+
+- :zap: Enthusiastic aspiring full-stack web developer specialized in MERN stack having fascination towards computer and technology. Keen to create new and innovative websites by showcasing my skills. Apart from that a great team player, ability to work with different kinds of people with different thinkings. In my spare time, I like to gain skills by which I can create something productive.
 <br/>
 
 <br/>
