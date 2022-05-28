@@ -1,5 +1,5 @@
 # Hi, I'm Abhinav Roy👋
-abhinavroy121.ar@gmail.com
+
 <!--
 **abhinavroy121/abhinavroy121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Connect with me: </h2>
+<br/>
+abhinavroy121.ar@gmail.com
+<br/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/abhinav-roy-35154120a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
