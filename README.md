@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavroy121&show_icons=true&theme=radical&layout=compact)](https://github.com/abhinavroy121)
-
-
+</br>
+</br>
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -40,3 +40,12 @@ Here are some ideas to get you started:
     <a href="https://icons8.com/icon/24895/npm"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
     <a href="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a>
 </p>
+
+
+<br/>
+    <a href="https://github.com/salavisushant/github-readme-stats"><img alt="Sushannt Salavi's Github Stats" style="width:54%" src="https://github-readme-stats.vercel.app/api?username=salavisushant&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
+
+<br/>
+
