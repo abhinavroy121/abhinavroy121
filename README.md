@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2> Connect with me: </h2>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/abhinav-roy-35154120a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://www.instagram.com/_abhinav_roy_/">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+<br/>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhinav-roy-35154120a/)
 
 ![](https://komarev.com/ghpvc/?username=abhinavroy121&color=green)
