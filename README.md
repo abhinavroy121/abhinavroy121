@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhinav-roy-35154120a/)
 
+![](https://github.com/abhinavroy121?username=abhinavroy121&label=PROFILE+VIEWS)
  
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavroy121&show_icons=true&theme=radical)](https://github.com/abhinavroy121)
