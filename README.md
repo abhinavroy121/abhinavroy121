@@ -38,8 +38,8 @@ abhinavroy121.ar@gmail.com
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   
-<!--   <a href="https://abhinavroy-fullstackwebdeveloper-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/> -->
+  <a href="https://abhinavroy-fullstackwebdeveloper-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 <br/>
