@@ -1,5 +1,10 @@
-# Hi, I'm Abhinav Roy👋
 
+<div align="center" display="flex">
+    <img width="50%" src="https://i.ibb.co/T1B2pf5/Mern-logo-repo.png" alt="Mern-logo-repo">
+<!--     <img align="" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif"> -->
+    <img align="" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
+</div>
+<h1>  Hi, I'm Abhinav Roy👋 </h1>
 <!--
 **abhinavroy121/abhinavroy121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 abhinavroy121.ar@gmail.com
@@ -14,7 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h2>😄 About me:  </h2>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 I am a Full Stack Web Developer from India.
