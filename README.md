@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>😄 About me:  </h2>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 I am a Full Stack Web Developer from India.
 <!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. -->
 - :zap: Enthusiastic aspiring full-stack web developer specialized in MERN stack having fascination towards computer and technology. Keen to create new and innovative websites by showcasing my skills. Apart from that a great team player, ability to work with different kinds of people with different thinkings. In my spare time, I like to gain skills by which I can create something productive.
@@ -50,7 +50,7 @@ abhinavroy121.ar@gmail.com
 ![](https://komarev.com/ghpvc/?username=abhinavroy121&color=green)
  
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavroy121&show_icons=true&theme=radical)](https://github.com/abhinavroy121)
+[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavroy121&show_icons=true&theme=radical)](https://github.com/abhinavroy121)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavroy121&show_icons=true&theme=radical&layout=compact)](https://github.com/abhinavroy121)
