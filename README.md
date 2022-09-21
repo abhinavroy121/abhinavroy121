@@ -36,13 +36,15 @@ abhinavroy121.ar@gmail.com
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
+  <a href="https://abhinav-roy-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  
   <a href="https://www.instagram.com/_abhinav_roy_/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   
-  <a href="https://abhinav-roy-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+  
 </div>
 <br/>
 
@@ -77,4 +79,4 @@ abhinavroy121.ar@gmail.com
 
 
 <!-- https://github.com/abhinavroy121/github-readme-activity-graph -->
-<a href="https://github.com/abhinavroy121/github-readme-activity-graph"><img alt="abhinavroy121's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=abhinavroy121&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/abhinavroy121/github-readme-activity-graph"><img alt="abhinavroy121's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=abhinavroy121&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" /></a>
