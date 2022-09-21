@@ -58,6 +58,7 @@ abhinavroy121.ar@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavroy121&show_icons=true&theme=radical&layout=compact)](https://github.com/abhinavroy121)
 </br>
 </br>
+<h2> Languages & Tools: </h2>
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
