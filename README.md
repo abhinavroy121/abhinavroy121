@@ -1,7 +1,7 @@
 
 <div align="center" display="flex">
     <img width="50%" src="https://i.ibb.co/T1B2pf5/Mern-logo-repo.png" alt="Mern-logo-repo">
-<!--     <img align="" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif"> -->
+     <img align="" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif"> 
     <img align="" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 </div>
 <h1>  Hi, I'm Abhinav Roy  👋 </h1>
@@ -28,10 +28,8 @@ I am a Full Stack Web Developer from India.
 
 <h2>📫 Connect with me: </h2>
 
-
 abhinavroy121.ar@gmail.com
 <div id="badges">
-  
   <a href="https://www.linkedin.com/in/abhinav-roy-35154120a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -77,7 +75,6 @@ abhinavroy121.ar@gmail.com
     <a href="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </p>
-
 
 <!-- https://github.com/abhinavroy121/github-readme-activity-graph -->
 <a href="https://github.com/abhinavroy121/github-readme-activity-graph"><img alt="abhinavroy121's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=abhinavroy121&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" /></a>
