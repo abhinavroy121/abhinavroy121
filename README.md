@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 <h2>😄 About me:  </h2>
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 I am a Full Stack Web Developer from India.
 <!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. -->
@@ -32,6 +34,7 @@ I am a Full Stack Web Developer from India.
 
 abhinavroy121.ar@gmail.com
 <div id="badges">
+
   <a href="https://www.linkedin.com/in/abhinav-roy-35154120a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
