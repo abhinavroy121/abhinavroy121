@@ -75,10 +75,12 @@ abhinavroy121.ar@gmail.com
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/express.png"/> </a>
+    <a href="https://heroku.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
     <a href="https://icons8.com/icon/111953/json"><img src="https://img.icons8.com/material-outlined/48/000000/json.png"/></a>
     <a href="https://icons8.com/icon/24895/npm"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
     <a href="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    
 </p>
 
 <!-- https://github.com/abhinavroy121/github-readme-activity-graph -->
