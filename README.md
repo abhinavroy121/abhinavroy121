@@ -84,4 +84,4 @@ abhinavroy121.ar@gmail.com
 </p>
 
 <!-- https://github.com/abhinavroy121/github-readme-activity-graph -->
-<a href="https://github.com/abhinavroy121/github-readme-activity-graph"><img alt="abhinavroy121's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=abhinavroy121&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" /></a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhinavroy121)](https://github.com/abhinavroy121&theme=xcode/github-readme-activity-graph)
