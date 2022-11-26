@@ -84,4 +84,4 @@ abhinavroy121.ar@gmail.com
 </p>
 
 <!-- https://github.com/abhinavroy121/github-readme-activity-graph -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhinavroy121)](https://github.com/abhinavroy121&theme=xcode/github-readme-activity-graph)
+[![Abhinav's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhinavroy121)](https://github.com/abhinavroy121&theme=xcode/github-readme-activity-graph)
